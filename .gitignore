@@ -1,13 +1,7 @@
-train(1).csv
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
 venv/
 .DS_Store
-/Loan Approval Prediction(2)
-spam(3).csv
-Mall_Customers(4).csv
-diabetes(5).csv
-House Price Prediction(6)
-Airline Passenger Satisfaction(7)
+Dl Dataset/
