@@ -1,0 +1,4 @@
+pip install google-generativeai
+pip install gensim
+pip install nltk
+pip install scikit-learn
